@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+./data/test/*/
+./data/train/*/
 
 # Spyder project settings
 .spyderproject
