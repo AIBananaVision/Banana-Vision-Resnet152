@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow  # This is the package name for PIL (Pillow is the modern fork of PIL)
+opencv  # This is the package name for cv2 (OpenCV)
+numpy
+scipy
+torch  # This is the package name for PyTorch
+torchvision
